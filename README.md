@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Header with Name and Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erison%20Miller&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=30&descAlignY=50&desc=Senior Full Stack Developer | AWS | .NET | React" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erison%20Miller&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=30&descAlignY=50&desc=Senior%20Full%20Stack%20Developer%20%7C%20AWS%20%7C%20.NET%20%7C%20React" />
+
 
 <!-- Status Badges -->
 
@@ -72,9 +73,9 @@
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErisonMiller&theme=highcontrast&hide_border=true" />
+  <img height="180em" src="https://streak-stats.vercel.app/?user=ErisonMiller&theme=highcontrast&hide_border=true&mode=weekly" />
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErisonMiller&layout=compact&langs_count=7&theme=highcontrast&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ErisonMiller&theme=highcontrast&hide_border=true" />
 </div>
 
 ---
